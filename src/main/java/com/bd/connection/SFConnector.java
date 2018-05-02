@@ -21,7 +21,7 @@ public class SFConnector {
         //beanObj = ((LoaderBean) beanfactory.getBean("attachmentBean"));
         ConnectorConfig config = new ConnectorConfig();
         config.setUsername("sid.demo@yahoo.com");
-        config.setPassword("Siddh@4489DnFsBoKaroezOFz7T5fnbIdV");
+        config.setPassword("72scjp72");
         try {
             connection = Connector.newConnection(config);
         } catch (ConnectionException e1) {
